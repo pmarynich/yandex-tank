@@ -1,0 +1,7 @@
+[Host: api.apiato.test]
+[Connection: close]
+[User-Agent: Tank]
+[Accept: */*]
+[Content-Type: application/x-www-form-urlencoded]
+135 /v1/oauth/token
+username=admin%40admin.com&password=admin&client_id=9&client_secret=zOkvf5Wpv3PEsI1WpOk3st1uvnqro4RZRTVLZW2t&grant_type=password&scope=
